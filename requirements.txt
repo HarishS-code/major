@@ -1,0 +1,15 @@
+Flask
+h5py
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+keras
+tensorflow
+gevent
