@@ -21,7 +21,7 @@ from gevent.pywsgi import WSGIServer
 
 cwd = os.getcwd()
 app = Flask(__name__)
-model = load_model('vgg_19.h5') 
+model = load_model('vgg_16.h5') 
 print('Model loaded. Check http://127.0.0.1:5000/')
 
 
