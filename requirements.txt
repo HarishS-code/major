@@ -1,4 +1,4 @@
-Flask
+Flask==1.1.1
 h5py
 gunicorn
 Jinja2
@@ -6,5 +6,5 @@ MarkupSafe
 Werkzeug
 numpy
 keras
-tensorflow
+tensorflow==2.3.1
 gevent
